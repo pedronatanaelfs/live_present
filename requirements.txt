@@ -1,0 +1,6 @@
+opencv-python==4.8.0.74  # Versão do OpenCV para captura de vídeo da câmera
+Pillow==9.2.0            # Biblioteca para manipulação de imagens (Tkinter)
+tk                       # Tkinter para a interface gráfica (não é instalado via pip)
+numpy<2
+python-pptx
+comtypes
